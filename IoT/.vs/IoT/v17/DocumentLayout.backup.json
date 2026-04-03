@@ -1,0 +1,829 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\IoT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\iotdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\iotdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\iiotdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\iiotdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\alertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\alertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\ialertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\ialertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\heartbeatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\heartbeatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\heartbeatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\heartbeatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\iheartbeatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\iheartbeatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\connectionlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\connectionlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\iconnectionlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\iconnectionlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\optional\\heartbeatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\optional\\heartbeatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\alertscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\ialertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\alert\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\alert\\alertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\iotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\iiotdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\iotdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\data\\devicedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\data\\devicedatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\data\\receivedatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\data\\receivedatarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\machinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\machineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\imachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\machine\\machinedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\machine\\machinedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\deviceconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\deviceconfigscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\deviceconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\deviceconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\ideviceconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\ideviceconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\deviceconfigrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\deviceconfigrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\ideviceconfigrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\ideviceconfigrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\config\\updatedeviceconfigrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\config\\updatedeviceconfigrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\config\\createdeviceconfigrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\config\\createdeviceconfigrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\config\\deviceconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\config\\deviceconfigdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\device\\updatedevicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\device\\updatedevicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\device\\createdevicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\device\\createdevicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\machine\\updatemachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\machine\\updatemachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\machine\\machinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\machine\\createmachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\machine\\createmachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\application\\dtos\\device\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\application\\dtos\\device\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\machinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\repositories\\imachinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\repositories\\imachinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\domain\\entities\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|d:\\download\\iot\\iot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79009CF4-2B0B-4DA1-95FF-AB72035F9970}|IoT.Api\\IoT.Api.csproj|solutionrelative:iot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Program.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Program.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Program.cs",
+              "RelativeToolTip": "IoT.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:04:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlertRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IAlertRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IAlertRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IAlertRepository.cs*",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IAlertRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:31:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlertRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\AlertRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\AlertRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\AlertRepository.cs*",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\AlertRepository.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:32:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IIotDataService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IIotDataService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IIotDataService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IIotDataService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IIotDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:19:17.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IotDataService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IotDataService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IotDataService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IotDataService.cs*",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IotDataService.cs*",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:19:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionLogRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\ConnectionLogRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\ConnectionLogRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\ConnectionLogRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\ConnectionLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:36:06.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHeartbeatService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IHeartbeatService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IHeartbeatService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IHeartbeatService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IHeartbeatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:36:33.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeartbeatService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\HeartbeatService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\HeartbeatService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\HeartbeatService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\HeartbeatService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvykAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:36:50.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeartbeatController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\HeartbeatController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\HeartbeatController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\HeartbeatController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\HeartbeatController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:37:17.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IConnectionLogRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IConnectionLogRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IConnectionLogRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IConnectionLogRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IConnectionLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:35:45.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HeartbeatRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\Optional\\HeartbeatRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\Optional\\HeartbeatRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\Optional\\HeartbeatRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\Optional\\HeartbeatRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:35:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AlertsController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\AlertsController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\AlertsController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\AlertsController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\AlertsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:33:31.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlertService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\AlertService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\AlertService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\AlertService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\AlertService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:33:01.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAlertService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IAlertService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IAlertService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IAlertService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IAlertService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:32:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AlertDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\ALERT\\AlertDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\ALERT\\AlertDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\ALERT\\AlertDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\ALERT\\AlertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:31:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IIotDataRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IIotDataRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IIotDataRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IIotDataRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IIotDataRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:18:02.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IotDataRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IotDataRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IotDataRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IotDataRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IotDataRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:18:34.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IotDataController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\IotDataController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\IotDataController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\IotDataController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\IotDataController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:20:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeviceDataDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DATA\\DeviceDataDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\DATA\\DeviceDataDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DATA\\DeviceDataDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\DATA\\DeviceDataDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:17:17.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReceiveDataRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DATA\\ReceiveDataRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\DATA\\ReceiveDataRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DATA\\ReceiveDataRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\DATA\\ReceiveDataRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:16:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MachineDashboardDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\MachineDashboardDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\MACHINE\\MachineDashboardDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\MachineDashboardDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\MACHINE\\MachineDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:07:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IMachineService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IMachineService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IMachineService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IMachineService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IMachineService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:33:46.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MachineService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\MachineService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\MachineService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\MachineService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\MachineService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:33:58.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MachinesController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\MachinesController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\MachinesController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\MachinesController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\MachinesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:40:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeviceConfigService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\DeviceConfigService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\DeviceConfigService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\DeviceConfigService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\DeviceConfigService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:45:28.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeviceConfigsController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\DeviceConfigsController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\DeviceConfigsController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\DeviceConfigsController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\DeviceConfigsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:45:54.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDeviceConfigService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IDeviceConfigService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IDeviceConfigService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IDeviceConfigService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IDeviceConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:45:12.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeviceConfigRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\DeviceConfigRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\DeviceConfigRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\DeviceConfigRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\DeviceConfigRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:44:56.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDeviceConfigRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IDeviceConfigRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IDeviceConfigRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IDeviceConfigRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IDeviceConfigRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:44:39.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateDeviceConfigRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\UpdateDeviceConfigRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\CONFIG\\UpdateDeviceConfigRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\UpdateDeviceConfigRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\CONFIG\\UpdateDeviceConfigRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:44:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateDeviceConfigRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\CreateDeviceConfigRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\CONFIG\\CreateDeviceConfigRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\CreateDeviceConfigRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\CONFIG\\CreateDeviceConfigRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:43:45.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeviceConfigDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\DeviceConfigDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\CONFIG\\DeviceConfigDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\CONFIG\\DeviceConfigDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\CONFIG\\DeviceConfigDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:43:16.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:00:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:58:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDeviceService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IDeviceService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\IDeviceService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\IDeviceService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\IDeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:03:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\Services\\DeviceService.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\Services\\DeviceService.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAqwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:03:23.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Controllers\\DevicesController.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "IoT.Api\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:03:46.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateDeviceRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\UpdateDeviceRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\DEVICE\\UpdateDeviceRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\UpdateDeviceRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\DEVICE\\UpdateDeviceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:16:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateDeviceRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\CreateDeviceRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\DEVICE\\CreateDeviceRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\CreateDeviceRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\DEVICE\\CreateDeviceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:13:19.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MachineDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\MachineDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\MACHINE\\MachineDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\MachineDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\MACHINE\\MachineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:30:42.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateMachineRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\CreateMachineRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\MACHINE\\CreateMachineRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\CreateMachineRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\MACHINE\\CreateMachineRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:52:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeviceDto.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\DeviceDto.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\DEVICE\\DeviceDto.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\DEVICE\\DeviceDto.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\DEVICE\\DeviceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:58:23.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateMachineRequest.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\UpdateMachineRequest.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Application\\DTOs\\MACHINE\\UpdateMachineRequest.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Application\\DTOs\\MACHINE\\UpdateMachineRequest.cs",
+              "RelativeToolTip": "IoT.Api\\Application\\DTOs\\MACHINE\\UpdateMachineRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T15:04:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MachineRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\MachineRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\MachineRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\MachineRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\MachineRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:31:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IMachineRepository.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IMachineRepository.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Repositories\\IMachineRepository.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Repositories\\IMachineRepository.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Repositories\\IMachineRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:31:27.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "IoT.Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwAoBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:29:54.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MACHINE.cs",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\Domain\\Entities\\MACHINE.cs",
+              "RelativeDocumentMoniker": "IoT.Api\\Domain\\Entities\\MACHINE.cs",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\Domain\\Entities\\MACHINE.cs",
+              "RelativeToolTip": "IoT.Api\\Domain\\Entities\\MACHINE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T06:57:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\download\\IoT\\IoT.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "IoT.Api\\appsettings.json",
+              "ToolTip": "D:\\download\\IoT\\IoT.Api\\appsettings.json",
+              "RelativeToolTip": "IoT.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T03:59:06.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
